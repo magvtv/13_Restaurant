@@ -1,1 +1,8 @@
-so 
+A WEEK'S PROJECT
+- I have given myself this restaurant project until Friday the 9th of July 2023. 
+- The main purpose for this is to sharpen my blunt skills in React Javascript.  
+- I will be highlighting things that I am doing and learning. This way, it can be much easier to guide me where I am stuck. 
+- Another thing is to make use of the tools that are on the github platform. from the issues, the wikis to even the insights. 
+- my other goal with this would be to always contribute (or make higher commits) than i did the previous day. 
+- if monday has about 20, then tuesday has to be higher than that. this will continue to strengthen my git skills and make my github profile busy. 
+- THIS IS ALL, I WILL SEE YOU IN THE NEXT ONE. PEACE.
