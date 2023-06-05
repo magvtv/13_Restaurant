@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+## THAT RESTAURANT REACT APP 🏨
+- basically, this is one of my first projects with react. been dwindling and hesitating to start one but i am looking forward to finish this one.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
