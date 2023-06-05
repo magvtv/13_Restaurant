@@ -8,6 +8,7 @@
 .pnp.js
 package.json
 package-lock.json
+LICENSE
 
 # testing
 /coverage
