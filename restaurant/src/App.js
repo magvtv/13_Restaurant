@@ -1,4 +1,6 @@
 import React from 'react';
+import { about, chef, socials, gallery, header, intro, laurels, menu } from './containers'
+import  
 
 const App = () => {
   return (
