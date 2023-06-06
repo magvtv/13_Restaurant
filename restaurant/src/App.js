@@ -1,13 +1,22 @@
 import React from 'react';
-import { about, chef, socials, gallery, header, intro, laurels, menu } from './containers'
-import  
+import { About, Chef, Socials, Gallery, Header, Intro, Laurels, Footer, Menu } from './containers';
+import { Navbar } from './components'
+import  './App.css'
 
 const App = () => {
   return (
     <div>
-        <h1>
-            Nothing here, just chilling
-        </h1>
+      <Navbar />
+      <Header />
+      <About />
+      <Menu />
+      <Chef />
+      <Intro />
+      <Gallery />
+      <Laurels />
+      <Socials />
+      <Footer />
+      
     </div>
   )
 }
